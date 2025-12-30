@@ -1,2 +1,2 @@
 # Javascript Practice
-Some practices with Javascript to achieve enhancement. I wrote some of those scripts them because i was bored.
+Some practices with Javascript to achieve enlightment. (I wrote some of those scripts because i was bored.)
